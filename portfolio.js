@@ -257,7 +257,7 @@ function renderLiveStats() {
     { value: contributions.length, label: "completed contributions logged" },
     { value: projects.size, label: "projects contributed to" },
     { value: categories.size, label: "types of work covered" },
-    { value: withImpact, label: "with a recorded business impact" },
+    { value: withImpact, label: "with a recorded project impact" },
   ];
 
   liveStrip.innerHTML = stats
