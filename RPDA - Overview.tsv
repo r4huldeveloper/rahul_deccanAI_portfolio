@@ -1,75 +1,79 @@
-Work Done	Stage	Category	Project	Impact	Skills Used
-Sent access request for proposal doc for thanos	Completed	CleanUP	THANOS		
-Conducted meeting with shubham to discuss about project cleanup from 1 pm	Completed	CleanUP	THANOS		
-Team Members sheet populated with respective <project> data	Completed	CleanUP	THANOS		
-<THANOS> dashboard and other availalbe data is available in CLEANUP sheet formatted way	Completed	CleanUP	THANOS		
-FINALISED BETA CLEANUP MASTER SHEET Thanos	Completed	CleanUP	THANOS	Master sheet upgraded, Anyone can understand about the project in-out just by looking at the sheet	
-Worked on MAITRIX CLEAN UP MASTERSHEET	Completed	CleanUP	MAITRIX		
-MAITRIX Masterhseet BETA Finalised 	Completed	CleanUP	MAITRIX	Master sheet upgraded, Anyone can understand about the project in-out just by looking at the sheet	
-Find out the blunder in the Bytedance Jobs and tasks , shared it with the team	Completed	CleanUP	GT BYTEDANCE	Saved the time and efficiency of team by not working on the duplicated and wrong tasks file 	
-Shared Report for the 12 Jobs for the 5 GT Classes. Covering 2 jobs for each GT class to the stakeholders	Completed	CleanUP	GT BYTEDANCE		
-Modified the Thanos sheet project action items	Completed	CleanUP	THANOS	All action items was not availalble, now it's available	
-Maitrix & Thanos links are updated in the Coding PJs sheet	Completed	CleanUP	THANOS, MAITRIX		
-Sent access request for RL JIRA ENV to arpan shah	Completed	CleanUP	RL ENV		
-Worked on the RL Env sheet, created Project action, Team members, Docs. Mastersheet	Completed	CleanUP	RL ENV		
-Shared the RL Env template to Pankaj Bhaiya	Completed	CleanUP	RL ENV		
-Done with Bytedance HITL tasks and shared it with Sarthak	Completed	Agentic Workflow Evaluation	GT BYTEDANCE		
-Updated the RL Env - JIRA Mastersheet(included inhouse members data in Dashboard)	Completed	CleanUP	RL ENV		
-Found out the issue in BYTEDANCE GT'S in env. we are providing the test_files to the agent but it should not be there	Completed	Agentic Workflow Evaluation	GT BYTEDANCE	Company reputation at stakes if contaminated GT's will delivered to the client	
-New synthetic trajectories perform HITL on it	Completed	Agentic Workflow Evaluation	GT BYTEDANCE		
-Maitrix pending data is updated in the master sheet	Completed	CleanUP	MAITRIX		
-HITL all the new trajectories in the bytedance sheet and acknowledge to Sarthak(Project lead)	Completed	Agentic Workflow Evaluation	GT BYTEDANCE	All the trajectories evaluation provided on the time, which helps the project running daily	
-Preparing crux for the research paper provided by the Pankaj(TPM)	Completed	Research	Research Papers		
-Submitted the v1.0 for the problem which is provided in the Deccan AI Hackathon 	Completed	Hackathon	Problem Statements		
-Prepared crux for the RLHI and SWE Benchmark Pro and send to pankaj	Completed	Research	Research Papers	Now Pankaj don't need to cram the research he just need to look at the 1 page document to understand the in and out of this research	
-Automated the sheet data columns from the source for Golden Trajectories Sample	Completed	Research	GT BYTEDANCE		
-Prepared SOP for bytedance sheet to evaluate the trajectoreis and send it to Sarthak and pankaj	Completed	Agentic Workflow Evaluation	GT BYTEDANCE	now the resources we will hire will follow the SOP to perform HITL tasks while evaluating agentic workflow	
-Updated the Matrix Sheet with the payment of verifier validation including other 2 jobs & send it to Ashwin	Completed	CleanUP	MAITRIX	Now the dashboard have the real payment data which is made in the maitrix project to the freelancers	
-Sarthak & me found blunder in a task which is created by Abhinav from his pipeline  & also i found the blunder in the instruction.md file for this task <transphone_flexible_device_selection> specifically	Completed	Agentic Workflow Evaluation	GT BYTEDANCE	We found this at the inital stage which leads us to get the stronger pipelines to cross verify before the task goes to the HITL	
-Prepared Ambuigity tracker, SOP(HITL), 	Completed	Agentic Workflow Evaluation	GT BYTEDANCE		
-Prepared HiL research paper which we can use in deccan ai	Completed	Research	Research Papers	It can help us to come up on the more Golden trajectories and the correct outputs and also which can help the agent to stay on the track which directly cost cut and increase the overall efficiency	
-Performed trajectory evaluation of the remaining tasks and update the sarthak bout this	Completed	Research	GT BYTEDANCE		
-Evaluated the Ambuigity tracker tasks to resolve them and get back into sample trajectories	Completed	Research, Agentic Workflow Evaluation	GT BYTEDANCE	All the ambigous tasks are sorted in terms of instruction.md file dependency,version issues and we can re use them for Golden trajectories	
-Fixing the broken tasks which is available in ambuigity tracker	Completed	Coding	GT BYTEDANCE	We can reuse the broken task which directly increases the quantity of GT tasks	
-Fixing the broken tasks which is available in ambuigity tracker	Completed	Coding	GT BYTEDANCE	We can reuse the broken task which directly increases the quantity of GT tasks	
-Segregate the 25 trajectories which is created by abhinav in 2 cateogries: ERROR & WORKING	Completed	Coding, Research	GT BYTEDANCE	Now iwe can focus on the working tasks out of 25 tasks 10 tasks were contaminated 	
-Completed the HITL f(x) for the Working trajectories and informed to Sarthak	Completed	Research	GT BYTEDANCE	Now we have golden trajectories sample we can move forward	
-Bytedance forms shared with question follwoing each GT classses with 3 questions each	Completed	Research	GT BYTEDANCE	We will create the forms for the annotator while selecting the GT classes	
-Created Draft Annotator form to select the primary GT classes for each task and share it to pankaj	Completed	Research, Agentic Workflow Evaluation	GT BYTEDANCE	When evaluating GT classes HITL can make the decision as per the form 	
-Added Yes/no examples for GT classes, edge cases to get the better view for the question	Completed	Research, Agentic Workflow Evaluation	GT BYTEDANCE	Helps annotators to get the good grasp while evaluating trajectory	
-Draft the Proposal fot stakeholderf(Pankaj) and Clarification question doc for the Bytedance 	Completed	Documentation	GT BYTEDANCE	Proposal and CQ to confirm the asks from the client	
-Evaluated the agentic AI reponse for 1 unit which is raised by the Pankaj	Completed	Agentic Workflow Evaluation	Snowflake		
-Evaluated the Github PRs trajectory for several units 	Completed	Agentic Workflow Evaluation	GT BYTEDANCE		
-Prepared the AI/HITL Remarks sheet	Completed	Research	GT BYTEDANCE	Having this sheet we can feed the agent to give the correct results	
-Prepared Comprehensive Overview of SWE Benchmarks: SWE-bench, SWE-bench Pro, and SWE Atlas and send to pankaj	Completed	Research	Research Papers		
-Updated pre-sanity checks on 100 synthetic tasks and updated to Sarthak	Completed	Research, Coding	GT BYTEDANCE		
-Prepare Prompt Guidelines, rules for prompt, trajecotry guidelines for each steps	Completed	Research, Documentation	Snowflake		
-Prepared POC on sheet to mock the workflow implementation of Gmail MCP	Completed	Research, Documentation, Coding	Snowflake	Now it's easy to understand the workflow which tech team can build upon on top of it . It's a mock where it simulates synthetic data of mail, prompts & provide agent_trajectories and final_responses	
-Connected with sahil to test MCP tools for Read_Only mode as per v3 & updated the sheet	Completed	Research, Documentation	Snowflake		
-Connected with Murugan for the platform updates	Completed	Documentation, Project Updates	RLHF & SFT Platform		
-Assigned the task to Sahil to resolve all the failed issue i saw when i was evaluating tool calls	Completed	Documentation, Project Updates	Snowflake		
-Collaborated with Murugan to create the current status doc. of the RLHF platform	Completed	Documentation, Project Updates	RLHF & SFT Platform	Shared with Pankaj to get the idea about it	
-Re-evaluated calendar, drive tools and tools_outputs for discrepancies (if any) and share the status with sahil	Completed	Documentation, Project Updates, Evals	Snowflake		
-	Completed	Documentation, Project Updates, Evals	GT BYTEDANCE		
-Prepare Quality Issue Validation Rubric And analyze the failed tasks thorougly	Completed	Documentation, Evals	GT BYTEDANCE	We are thinking to scale for 100k tasks so my research and sop will help the freelancers and annotators to follow one source of truth to complete the goal numbers	
-Check Gmail tools	Completed	Evals, Research	Snowflake		
-Evaluate the Chat UI with different prompt covering different taxonmies and valdate if it's working as desired	Completed	Evals, Research	Snowflake		
-Evaluated the GIT pipeline task created by abhinav if it's working as per updated Sanity Checks	Completed	Evals, Research	GT BYTEDANCE		
-Evaluate all the slack read only tools if it's working fine and asked sahil to resolve the discrepancies	Completed	Evals, Research	Snowflake	so that it can get integrated in the Chat UI which we are using to create Golden answers 	
-		Evals, Research			
-		Evals, Research			
-Collaborated with L&D team to prepare the SOPs for the annotator/qc/sqc	Completed	Evals, Research	GT BYTEDANCE	It impacts the AHT and overall efficiency to complete the evaluation for the trajectories	
-Role: APM on this project  -  Architected the platform interface, collaborated with the ML/backend team and reiterate on the platfrom to add the features which was required to create the golden trajectories from prompts from either live account or synthetic data  - Tailored the prompts, golden expected answer, defined the taxonomies - Automated the dump of live data across the g suites, jira & slack created prompts from 100GB of data after finding the interconnection between those and created the pipeline for prompt creation followiing defined taxonomies  - Created SOPs to evaluate trajectory and tool calls and edit it as per the prompt if agent hallucinated the tool call - Defined rubrics for the successfull trajecotry evaluation and golden answer	Completed		Snowflake	Chat Environment is created within 2 days Created automated pipelines for prompt creation & expected golden answer Created trajectories using synthetic db and live account across the suites 	
-I myself created the 5-10 multiturn tool call tasks, annotated them, sqced them with the golden trajectories, also i've completed 30-50 tasks of single turn from annotation to qc.  Overall the snowflake project was handled by 4 members of our team i was working as an APM	Completed				
-Shared the KT with more than 30 People till date	Completed		IronLegion, GT BYTEDANCE		
-Provide KT to the team of 23 annotators and thier accuratcy was 93% for the tool evaluations for more than 600 tool across 9 platforms - compelted checking for all the tools within 1 and half day - i lead the team and daily sync with all of'em	Completed		IronLegion		
-Trained and lead 10 Folks for prompt refining so that model gets breakout which was interconnected across suites like G suite, notion, jira etc.Preapred more than 200 prompts to perform benchmarking on and out of 200 80% prompts were able to stress out the 3 models and models wasn't able to execute the task. Now we can offer these data to frontier AI company. Also i've created the rubrics and narratives for synthetic db we've used which was 90% accurate	Completed		IronLegion		
-Trained equivalent to 50 folks till date on various evals.	Completed		IronLegion		
-Evaulated the prompts stuff and prepared the report to correct the prompt generation pipeline which will help to make the pipeline effiencient and remove the dependency of prompt validation by having HITL	Completed		IronLegion		
-Worked on Multi turn and multiserver from architecting the synthetic db across all the gsuite, slack, jira with 90% coherent throughout the suite prepared single turn  - multi turn - multi tool prompts benchmarked those with gpt 5.5, qwen 27b, qwen 35b , opus 4.6 where paas = composite > 80% for agentic trace veriiefer, sql verifier, end state veriifer. It was a research project taking some reference from EnterpriseOps Gym we were preparing the data where the prompt level is that good where multiple models are unable to perform the task and we can sell this data to the  frontier labs etc.	Completed		IronLegion		
-Collaborated with team and created Complete project process playbook and PRD to revamp the platform	Completed		IronLegion		
-Created workflow process, tasks evaluation, rubrics to evaluate the breakers whidh we can sell to the client	Completed		Browser gym		
-I have entered in this project in middle and in 2 days I prepared QC onboarding guidelines, KT video, finalised the task for the qc to practice on. Prepared and finalize the weekly KPIs required to track and deliver it to the team	Completed		Project Infinity		
-Worked on bluebird prepared KPI dashboards for stakeholder to visualize the progress easily, Collaborated with team to support ops, assigning tasks and keep the pace up for the task completion. Delivered 2000 tasks within 72 hrs.	Completed		Groot		
-Prepared all the collated data for AE and BB Freelancers which was already messed up, unified all the data with all the creds respective to the freelancer for catching up with them, select teh best candidate, see thier total batches contribution and streamline the task assignment operations including the task related KPIs and deilivered it.	Completed		Groot		
-			Botco		
+Work Done	Category	Project	Impact
+Sent access request for proposal doc for thanos	CleanUP	THANOS	
+Conducted meeting with shubham to discuss about project cleanup from 1 pm	CleanUP	THANOS	
+Team Members sheet populated with respective <project> data	CleanUP	THANOS	
+<THANOS> dashboard and other availalbe data is available in CLEANUP sheet formatted way	CleanUP	THANOS	
+FINALISED BETA CLEANUP MASTER SHEET Thanos	CleanUP	THANOS	Master sheet upgraded, Anyone can understand about the project in-out just by looking at the sheet
+Worked on MAITRIX CLEAN UP MASTERSHEET	CleanUP	MAITRIX	
+MAITRIX Masterhseet BETA Finalised 	CleanUP	MAITRIX	Master sheet upgraded, Anyone can understand about the project in-out just by looking at the sheet
+Find out the blunder in the Bytedance Jobs and tasks , shared it with the team	CleanUP	GT BYTEDANCE	Saved the time and efficiency of team by not working on the duplicated and wrong tasks file 
+Shared Report for the 12 Jobs for the 5 GT Classes. Covering 2 jobs for each GT class to the stakeholders	CleanUP	GT BYTEDANCE	
+Modified the Thanos sheet project action items	CleanUP	THANOS	All action items was not availalble, now it's available
+Maitrix & Thanos links are updated in the Coding PJs sheet	CleanUP	THANOS, MAITRIX	
+Sent access request for RL JIRA ENV to arpan shah	CleanUP	RL ENV	
+Worked on the RL Env sheet, created Project action, Team members, Docs. Mastersheet	CleanUP	RL ENV	
+Shared the RL Env template to Pankaj Bhaiya	CleanUP	RL ENV	
+Done with Bytedance HITL tasks and shared it with Sarthak	Agentic Workflow Evaluation	GT BYTEDANCE	
+Updated the RL Env - JIRA Mastersheet(included inhouse members data in Dashboard)	CleanUP	RL ENV	
+Found out the issue in BYTEDANCE GT'S in env. we are providing the test_files to the agent but it should not be there	Agentic Workflow Evaluation	GT BYTEDANCE	Company reputation at stakes if contaminated GT's will delivered to the client
+New synthetic trajectories perform HITL on it	Agentic Workflow Evaluation	GT BYTEDANCE	
+Maitrix pending data is updated in the master sheet	CleanUP	MAITRIX	
+HITL all the new trajectories in the bytedance sheet and acknowledge to Sarthak(Project lead)	Agentic Workflow Evaluation	GT BYTEDANCE	All the trajectories evaluation provided on the time, which helps the project running daily
+Preparing crux for the research paper provided by the Pankaj(TPM)	Research	Research Papers	
+Submitted the v1.0 for the problem which is provided in the Deccan AI Hackathon 	Hackathon	Problem Statements	
+Prepared crux for the RLHI and SWE Benchmark Pro and send to pankaj	Research	Research Papers	Now Pankaj don't need to cram the research he just need to look at the 1 page document to understand the in and out of this research
+Automated the sheet data columns from the source for Golden Trajectories Sample	Research	GT BYTEDANCE	
+Prepared SOP for bytedance sheet to evaluate the trajectoreis and send it to Sarthak and pankaj	Agentic Workflow Evaluation	GT BYTEDANCE	now the resources we will hire will follow the SOP to perform HITL tasks while evaluating agentic workflow
+Updated the Matrix Sheet with the payment of verifier validation including other 2 jobs & send it to Ashwin	CleanUP	MAITRIX	Now the dashboard have the real payment data which is made in the maitrix project to the freelancers
+Sarthak & me found blunder in a task which is created by Abhinav from his pipeline  & also i found the blunder in the instruction.md file for this task <transphone_flexible_device_selection> specifically	Agentic Workflow Evaluation	GT BYTEDANCE	We found this at the inital stage which leads us to get the stronger pipelines to cross verify before the task goes to the HITL
+Prepared Ambuigity tracker, SOP(HITL), 	Agentic Workflow Evaluation	GT BYTEDANCE	
+Prepared HiL research paper which we can use in deccan ai	Research	Research Papers	It can help us to come up on the more Golden trajectories and the correct outputs and also which can help the agent to stay on the track which directly cost cut and increase the overall efficiency
+Performed trajectory evaluation of the remaining tasks and update the sarthak bout this	Research	GT BYTEDANCE	
+Evaluated the Ambuigity tracker tasks to resolve them and get back into sample trajectories	Research, Agentic Workflow Evaluation	GT BYTEDANCE	All the ambigous tasks are sorted in terms of instruction.md file dependency,version issues and we can re use them for Golden trajectories
+Fixing the broken tasks which is available in ambuigity tracker	Coding	GT BYTEDANCE	We can reuse the broken task which directly increases the quantity of GT tasks
+Fixing the broken tasks which is available in ambuigity tracker	Coding	GT BYTEDANCE	We can reuse the broken task which directly increases the quantity of GT tasks
+Segregate the 25 trajectories which is created by abhinav in 2 cateogries: ERROR & WORKING	Coding, Research	GT BYTEDANCE	Now iwe can focus on the working tasks out of 25 tasks 10 tasks were contaminated 
+Completed the HITL f(x) for the Working trajectories and informed to Sarthak	Research	GT BYTEDANCE	Now we have golden trajectories sample we can move forward
+Bytedance forms shared with question follwoing each GT classses with 3 questions each	Research	GT BYTEDANCE	We will create the forms for the annotator while selecting the GT classes
+Created Draft Annotator form to select the primary GT classes for each task and share it to pankaj	Research, Agentic Workflow Evaluation	GT BYTEDANCE	When evaluating GT classes HITL can make the decision as per the form 
+Added Yes/no examples for GT classes, edge cases to get the better view for the question	Research, Agentic Workflow Evaluation	GT BYTEDANCE	Helps annotators to get the good grasp while evaluating trajectory
+Draft the Proposal fot stakeholderf(Pankaj) and Clarification question doc for the Bytedance 	Documentation	GT BYTEDANCE	Proposal and CQ to confirm the asks from the client
+Evaluated the agentic AI reponse for 1 unit which is raised by the Pankaj	Agentic Workflow Evaluation	Snowflake	
+Evaluated the Github PRs trajectory for several units 	Agentic Workflow Evaluation	GT BYTEDANCE	
+Prepared the AI/HITL Remarks sheet	Research	GT BYTEDANCE	Having this sheet we can feed the agent to give the correct results
+Prepared Comprehensive Overview of SWE Benchmarks: SWE-bench, SWE-bench Pro, and SWE Atlas and send to pankaj	Research	Research Papers	
+Updated pre-sanity checks on 100 synthetic tasks and updated to Sarthak	Research, Coding	GT BYTEDANCE	
+Prepare Prompt Guidelines, rules for prompt, trajecotry guidelines for each steps	Research, Documentation	Snowflake	
+Prepared POC on sheet to mock the workflow implementation of Gmail MCP	Research, Documentation, Coding	Snowflake	Now it's easy to understand the workflow which tech team can build upon on top of it . It's a mock where it simulates synthetic data of mail, prompts & provide agent_trajectories and final_responses
+Connected with sahil to test MCP tools for Read_Only mode as per v3 & updated the sheet	Research, Documentation	Snowflake	
+Connected with Murugan for the platform updates	Documentation, Project Updates	RLHF & SFT Platform	
+Assigned the task to Sahil to resolve all the failed issue i saw when i was evaluating tool calls	Documentation, Project Updates	Snowflake	
+Collaborated with Murugan to create the current status doc. of the RLHF platform	Documentation, Project Updates	RLHF & SFT Platform	Shared with Pankaj to get the idea about it
+Re-evaluated calendar, drive tools and tools_outputs for discrepancies (if any) and share the status with sahil	Documentation, Project Updates, Evals	Snowflake	
+	Documentation, Project Updates, Evals	GT BYTEDANCE	
+Prepare Quality Issue Validation Rubric And analyze the failed tasks thorougly	Documentation, Evals	GT BYTEDANCE	We are thinking to scale for 100k tasks so my research and sop will help the freelancers and annotators to follow one source of truth to complete the goal numbers
+Check Gmail tools	Evals, Research	Snowflake	
+Evaluate the Chat UI with different prompt covering different taxonmies and valdate if it's working as desired	Evals, Research	Snowflake	
+Evaluated the GIT pipeline task created by abhinav if it's working as per updated Sanity Checks	Evals, Research	GT BYTEDANCE	
+Evaluate all the slack read only tools if it's working fine and asked sahil to resolve the discrepancies	Evals, Research	Snowflake	so that it can get integrated in the Chat UI which we are using to create Golden answers 
+	Evals, Research		
+	Evals, Research		
+Collaborated with L&D team to prepare the SOPs for the annotator/qc/sqc	Evals, Research	GT BYTEDANCE	It impacts the AHT and overall efficiency to complete the evaluation for the trajectories
+Role: APM on this project  -  Architected the platform interface, collaborated with the ML/backend team and reiterate on the platfrom to add the features which was required to create the golden trajectories from prompts from either live account or synthetic data  - Tailored the prompts, golden expected answer, defined the taxonomies - Automated the dump of live data across the g suites, jira & slack created prompts from 100GB of data after finding the interconnection between those and created the pipeline for prompt creation followiing defined taxonomies  - Created SOPs to evaluate trajectory and tool calls and edit it as per the prompt if agent hallucinated the tool call - Defined rubrics for the successfull trajecotry evaluation and golden answer		Snowflake	Chat Environment is created within 2 days Created automated pipelines for prompt creation & expected golden answer Created trajectories using synthetic db and live account across the suites 
+I myself created the 5-10 multiturn tool call tasks, annotated them, sqced them with the golden trajectories, also i've completed 30-50 tasks of single turn from annotation to qc.  Overall the snowflake project was handled by 4 members of our team i was working as an APM			
+Shared the KT with more than 30 People till date		IronLegion, GT BYTEDANCE	
+Provide KT to the team of 23 annotators and thier accuratcy was 93% for the tool evaluations for more than 600 tool across 9 platforms - compelted checking for all the tools within 1 and half day - i lead the team and daily sync with all of'em		IronLegion	
+Trained and lead 10 Folks for prompt refining so that model gets breakout which was interconnected across suites like G suite, notion, jira etc.Preapred more than 200 prompts to perform benchmarking on and out of 200 80% prompts were able to stress out the 3 models and models wasn't able to execute the task. Now we can offer these data to frontier AI company. Also i've created the rubrics and narratives for synthetic db we've used which was 90% accurate		IronLegion	
+Trained equivalent to 50 folks till date on various evals.		IronLegion	
+Evaulated the prompts stuff and prepared the report to correct the prompt generation pipeline which will help to make the pipeline effiencient and remove the dependency of prompt validation by having HITL		IronLegion	
+Worked on Multi turn and multiserver from architecting the synthetic db across all the gsuite, slack, jira with 90% coherent throughout the suite prepared single turn  - multi turn - multi tool prompts benchmarked those with gpt 5.5, qwen 27b, qwen 35b , opus 4.6 where paas = composite > 80% for agentic trace veriiefer, sql verifier, end state veriifer. It was a research project taking some reference from EnterpriseOps Gym we were preparing the data where the prompt level is that good where multiple models are unable to perform the task and we can sell this data to the  frontier labs etc.		IronLegion	
+Collaborated with team and created Complete project process playbook and PRD to revamp the platform		IronLegion	
+Created workflow process, tasks evaluation, rubrics to evaluate the breakers whidh we can sell to the client		Browser Gym	
+I have entered in this project in middle and in 2 days I prepared QC onboarding guidelines, KT video, finalised the task for the qc to practice on. Prepared and finalize the weekly KPIs required to track and deliver it to the team		Project Infinity	
+Worked on bluebird prepared KPI dashboards for stakeholder to visualize the progress easily, Collaborated with team to support ops, assigning tasks and keep the pace up for the task completion. Delivered 2000 tasks within 72 hrs.		Groot	
+Prepared all the collated data for AE and BB Freelancers which was already messed up, unified all the data with all the creds respective to the freelancer for catching up with them, select teh best candidate, see thier total batches contribution and streamline the task assignment operations including the task related KPIs and deilivered it.		Groot	
+Labelling Guidelines are compiled from 50 pages to 28 pages which is around 42% less points with all the relative guidelines which helps new joiner to grasp over the guidelines with all the required points QA/QC guidelines were reduced with 50% compression and now any qc can understand it in half of the time. These both guidelines are formatted, easy to understand and take less time to understand which can increase the overall production rate		Botco	
+Preapred/audited sellable10 samples before sending to the client(tencent) 		CUA	
+Prepared and collected all the data to help out the GTM team to migrate all the project detials to the new website	Project data migration	GTM Related	
+Built a pipeline that generates README files and dataset descriptions for every data type published on the client-facing website, achieving 90% output accuracy.	Data Migration & Automation	GTM Related	Automated client-facing metadata creation at 90% accuracy, reducing manual preparation and supporting scalable migration to the new platform.
+Owned Browser Gym delivery as APM and built a JSON-schema pipeline for prompt and verifier generation across seven internally cloned environments: Amazon, LinkedIn Sales Navigator, HubSpot, Uber Eats, Jira, Calendly and Xmail. Led a two-person team, coordinated deliverables, created the daily activity tracker, platform issue tracker, prompt and verifier tracker, retrospectives and ramp-up plan, and resolved annotator blockers. Benchmarked Qwen, LunaGPT and Sol on multi-environment tasks.	APM, Benchmarking & Evaluation Systems	Browser Gym	Built the operating and evaluation system for seven cloned environments. Benchmarking exposed model limits: Qwen completed 3/10 tasks using three-environment prompts and could not complete larger prompts; LunaGPT completed 4/10 tasks; Sol completed 5/10 tasks.

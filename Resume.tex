@@ -1,0 +1,193 @@
+\documentclass[letterpaper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+
+% --- Custom helper macros used throughout this file (not in base deedy-resume.cls) ---
+\makeatletter
+% \sectionspace: override if the class already defines it, else define fresh
+\@ifundefined{sectionspace}{\newcommand{\sectionspace}{\vspace{2pt}}}{\renewcommand{\sectionspace}{\vspace{2pt}}}
+% tightitemize: override if the class already defines it, else define fresh
+\@ifundefined{tightitemize}{%
+  \newenvironment{tightitemize}{%
+    \begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}\setlength{\parsep}{0pt}\setlength{\topsep}{0pt}
+  }{%
+    \end{itemize}
+  }
+}{%
+  \renewenvironment{tightitemize}{%
+    \begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}\setlength{\parsep}{0pt}\setlength{\topsep}{0pt}
+  }{%
+    \end{itemize}
+  }
+}
+\makeatother
+% Bold bullet-text variant, used for Experience bullets
+\newenvironment{tightitemizebold}{%
+  \begin{itemize}\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}\setlength{\parsep}{0pt}\setlength{\topsep}{0pt}\bfseries
+}{%
+  \end{itemize}
+}
+\usepackage{geometry}
+\geometry{hmargin=1.1cm, vmargin=0.4cm}
+
+% Bold/prominent variant of \descript, used for Experience role-titles
+\newcommand{\descriptbold}[1]{%
+\color{subheadings}\raggedright\fontspec[Path = fonts/lato/]{Lato-Bol}\fontsize{11pt}{13pt}\selectfont\bfseries {#1 \\} \normalfont}
+
+\begin{document}
+\small
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+% \lastupdated % Print the Last Updated text at the top right
+
+\namesection{Rahul}{Sharma}{ % Your name
+\href{mailto:developerrahul671@gmail.com}{developerrahul671@gmail.com} \textbullet{} +91 94603 69975 \textbullet{}
+\href{https://linkedin.com/in/ra4hul}{linkedin.com/in/ra4hul}
+}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.30\textwidth} % The left column takes up 30% of the text width of the page
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education} 
+\subsection{Rajasthan Tech. University}
+\descript{B.Tech (CSE) }
+\location{May 2024 | Rajasthan \\ CGPA: 8.5/10 }
+
+\sectionspace % Some whitespace after the section
+
+
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Skills}
+\subsection{PRODUCT/PROGRAM MGMT}
+\textbullet{} PRD \textbullet{} BRD \textbullet{} User Stories \textbullet{} User Journey \textbullet{} RICE/MOSCOW \textbullet{} A/B Testing \textbullet{} Gap Analysis \textbullet{} Wireframing \textbullet{} SDLC \textbullet{} Roadmapping \textbullet{} Jira \textbullet{} GTM \textbullet{} KPIs \textbullet{} Cross-functional Delivery
+\sectionspace
+
+\subsection{AI / LLM PRODUCT}
+\textbullet{} LLM Evaluation \textbullet{} Agentic Workflow Eval \textbullet{} Golden Trajectories \textbullet{} HITL Design \textbullet{} RAG \textbullet{} Prompt Engineering \textbullet{} Model Benchmarking \textbullet{} Taxonomy Design \textbullet{} MCP Tools
+\sectionspace
+
+\subsection{DATA \& ANALYTICS}
+\textbullet{} SQL \textbullet{} PowerBI \textbullet{} BigQuery \textbullet{} IBM Cognos \textbullet{} Excel \textbullet{} Google Sheets \textbullet{} Churn Analysis \textbullet{} Figma \textbullet{} Agile \textbullet{} Confluence \textbullet{} Python \textbullet{} Product Metrics \textbullet{} Metabase
+\sectionspace
+
+\subsection{Techniques}
+\textbullet{} Customer Journey Mapping \textbullet{} User Persona \textbullet{} Workflow Diagrams \textbullet{} Feature Prioritization \textbullet{} Backlog Grooming \textbullet{} Cohort Analysis \textbullet{} Stakeholder Management \textbullet{} SOP Design \textbullet{} Quality Rubrics
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% Links
+%------------------------------------------------
+
+\section{Links} 
+
+Github: \href{https://github.com/r4huldeveloper}{github.com/r4huldeveloper} \\
+HackerRank: \href{https://hackerrank.com/profile/Yuffiii} {hackerrank.com/Yuffiii} \\
+\sectionspace % Some whitespace after the section
+
+%------------------------------------------------
+% CERTIFICATIONS
+%------------------------------------------------
+
+\section{CERTIFICATIONS} 
+IBM Business Analyst -- \href{https://www.credly.com/users/rahul-sharma.d826a05f}{{\color{blue}(LINK)}} \\
+BCG Strategy Job -- \href{https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/ntTvo6ru6Tq3A2JPq_SKZxezskWgmFjRvj9_68d963167ede33c101b08dce_1759577296721_completion_certificate.pdf}{{\color{blue}(LINK)}} \\
+McKinsey Forward Program -- \href{https://www.credly.com/badges/6929d672-8aca-42ef-b89f-9915b946493a/public_url}{{\color{blue}(LINK)}} \\
+\sectionspace 
+
+\section{Language} 
+\textbullet{}Hindi \textbullet{}English \textbullet{}Haryanvi \textbullet{}Punjabi \textbullet{}Russian
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hspace{0.03\textwidth}
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.63\textwidth} % The right column takes up 63% of the text width of the page
+
+%------------------------------------------------
+% Professional Experience
+%------------------------------------------------
+
+\section{Experience}
+\runsubsection{Deccan AI} \descriptbold{| Technical Project Associate}
+\location{04/2026 – Present | Hyderabad, IN}
+\sectionspace
+\begin{tightitemizebold}
+\item \textbf{APM}, Snowflake agentic-data platform -- architected interface with ML/backend team, automated ingestion of 100GB+ G Suite/Jira/Slack data into a prompt-and-golden-answer pipeline; live in 2 days.
+\item Caught a golden-trajectory contamination bug before client delivery on ByteDance program; authored SOP/rubric now scaling HITL review to 100k+ tasks.
+\item Built multi-suite synthetic benchmarking env (90\% coherence); 200+ prompts stress-tested GPT-5.5/Qwen/Opus 4.6, surfacing an 80\% failure rate -- dataset positioned for sale to frontier labs.
+\item Led 50-person annotator team to 93\% accuracy across 600+ tools/9 platforms in 1.5 days, delivered KT for validation of tools, prompts and trajectories.
+\end{tightitemizebold}
+
+\sectionspace 
+
+\runsubsection{VESTA DESIGNS} \descriptbold{| Operations Project Lead}
+\location{03/2025 – 12/2025 | Melbourne, AUS}
+\sectionspace
+\begin{tightitemizebold}
+\item Managed ~AUD 600K portfolio across 60+ concurrent projects at ~90\% on-time delivery; led 30 distributed team members across 50+ change requests (AUS/India).
+\item Built executive dashboards improving project visibility and delivery decision-making.
+\end{tightitemizebold}
+
+\sectionspace 
+
+\runsubsection{PINK ADRAK} \descriptbold{| Operations Manager}
+\location{06/2024 – 03/2025 | Jaipur, IN}
+\begin{tightitemizebold}
+\item Built demand forecasting system for 100+ SKUs/3 outlets: ~95\% accuracy, ~45\% less wastage; scaled daily orders 550 to 1,000+ (+80\%) across 30+ staff, sub-8-min. dispatch.
+\item Led CX/process initiatives driving 10x repeat customers and 3x revenue at flagship outlet.
+\end{tightitemizebold}
+
+\sectionspace 
+
+%------------------------------------------------
+% PROJECTS
+%------------------------------------------------
+
+\section{Projects}
+
+\runsubsection{SignalBoard} \href{https://github.com/r4huldeveloper/Signalboard}{{\color{blue}| Project Link}}
+\descript{| Delivery Intelligence Layer}
+\vspace*{0mm}
+\begin{tightitemizebold}
+\item Architected a local-first RAG copilot (FastAPI, Redis, pgvector) centralizing fragmented delivery data with cited, AI-driven insights.
+\item Standardized tracking for a 5-member APM team, cutting manual reporting overhead ~60\%.
+\end{tightitemizebold}
+\sectionspace
+\runsubsection{Career Copilot} \href{https://careercopilot.in}{{\color{blue}| Project Link}}
+\descript{| AI Career Platform}
+\vspace*{0mm}
+\begin{tightitemizebold}
+\item Shipped AI career platform (Resume Analyzer, JD Matcher, Mock Interview) across 15+ roles, $\sim$2s latency, BYOK/zero-backend architecture.
+\item Full PM ownership -- roadmap, acceptance criteria for 6 issues, v0.1.0 shipped with mobile UI.
+\end{tightitemizebold}
+
+\sectionspace 
+
+\runsubsection{PhonePe: Mobile Recharge Flow} \href{https://github.com/r4huldeveloper/Product-Case-PhonePe}{{\color{blue}| Project Link}}
+\descript{| PRD \& Process Optimization}
+\vspace*{0mm}
+\begin{tightitemizebold}
+\item PRD cutting a 9-step recharge workflow to 6 taps via "Quick Repeat" + recommendation engine.
+\item Targeted 35\% faster completion, 20\% less drop-off, to boost repeat-user retention.
+\end{tightitemizebold}
+
+\end{minipage} % The end of the right column
+
+\end{document}

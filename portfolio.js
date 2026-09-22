@@ -12,6 +12,8 @@ const portfolio = {
     { value: "90", suffix: "%", label: "coherence across the synthetic database architected by collaborating with the team" },
     { value: "23", suffix: "", label: "annotators led with daily syncs and quality tracking" },
     { value: "2", suffix: " days", label: "to stand up a working chat evaluation environment for golden trajectory creation" },
+    { value: "7", suffix: "", label: "cloned product environments operationalised for browser-agent benchmarking" },
+    { value: "90", suffix: "%", label: "accuracy from the automated client-facing metadata pipeline" },
   ],
   scorecard: [
     {
@@ -23,6 +25,7 @@ const portfolio = {
         { value: "10", label: "specialists trained on prompt refinement" },
         { value: "4", label: "person Snowflake team, where I served as APM" },
         { value: "3", label: "role-specific SOP sets built with L&D for annotator, QC and SQC" },
+        { value: "2", label: "person Browser Gym team led through delivery as APM" },
       ],
     },
     {
@@ -36,6 +39,7 @@ const portfolio = {
         { value: "5–10", label: "multi-turn tool-call tasks built, annotated and SQC'd by me" },
         { value: "25", label: "trajectories triaged into working and error sets" },
         { value: "12", label: "jobs reported to stakeholders across 5 GT classes" },
+        { value: "7", label: "cloned environments covered by one prompt and verifier pipeline" },
       ],
     },
     {
@@ -44,6 +48,7 @@ const portfolio = {
         { value: "93%", label: "annotator accuracy on tool evaluations" },
         { value: "90%", label: "coherence held across the synthetic database" },
         { value: "90%", label: "accuracy on the rubrics and narratives I authored" },
+        { value: "90%", label: "accuracy from the automated README and dataset-description pipeline" },
         { value: ">80%", label: "composite pass rate across 3 verifier types" },
         { value: "10/25", label: "trajectories caught as contaminated before use" }
       ],
@@ -66,6 +71,7 @@ const portfolio = {
         { value: "3", label: "SWE benchmarks analysed: SWE-bench, SWE-bench Pro, SWE Atlas" },
         { value: "100GB", label: "of live G Suite, Jira and Slack data mapped for prompt creation" },
         { value: "3", label: "research digests delivered on HiL, RLHF and SWE Benchmark Pro" },
+        { value: "3–5/10", label: "tasks completed by Qwen, LunaGPT and Sol in Browser Gym stress tests" },
       ],
     },
   ],
@@ -107,10 +113,17 @@ const portfolio = {
     },
     {
       name: "Browser Gym",
-      role: "Workflow & Evaluation Design",
+      role: "APM · Benchmarking & Evaluation Systems",
       summary:
-        "Designed the workflow process, task evaluation method and rubrics used to grade model-breaking tasks packaged for client sale.",
-      stats: ["Evaluation rubrics", "Workflow design", "Client-ready output"],
+        "Owned delivery as APM and led a two-person team building a JSON-schema prompt and verifier pipeline across seven internally cloned product environments. Established the operating system—from ramp-up plans and daily trackers to issue resolution—and benchmarked three models on multi-environment tasks, exposing clear capability gaps.",
+      stats: ["7 cloned environments", "2-person team", "Qwen 3/10", "LunaGPT 4/10", "Sol 5/10", "Prompt + verifier pipeline"],
+    },
+    {
+      name: "GTM Platform Migration",
+      role: "Automation · Client-Facing Data Operations",
+      summary:
+        "Built the pipeline that generates README files and dataset descriptions for every data type moving to the new client-facing website. Achieved 90% output accuracy, turning a manual content bottleneck into a repeatable migration workflow for the GTM team.",
+      stats: ["90% accuracy", "README automation", "Dataset descriptions", "Client-facing migration"],
     },
     {
       name: "THANOS · MAITRIX · RL ENV",
